@@ -1,0 +1,39 @@
+{
+  "scenes": [
+    {
+      "overlaidText": "What is the world’s only venomous primate?",
+      "voiceOverText": "Welcome to our quiz! Today's question: What is the world’s only venomous primate? Get ready to test your knowledge!",
+      "imagePrompt": "A high-resolution, photorealistic image of a forest canopy with different primates in the background, including an orangutan, a tarsier, a slow loris, and a lemur."
+    },
+    {
+      "overlaidText": "A) Orangutan",
+      "voiceOverText": "Option A: The Orangutan. Known for its intelligence and orange fur, but is it venomous? Think carefully!",
+      "imagePrompt": "A close-up, photorealistic image of an orangutan's face, looking thoughtful."
+    },
+    {
+      "overlaidText": "B) Tarsier",
+      "voiceOverText": "Option B: The Tarsier. These tiny creatures are known for their large eyes and unique appearance. But are they venomous?",
+      "imagePrompt": "A close-up, photorealistic image of a tarsier, with its large eyes and small body."
+    },
+    {
+      "overlaidText": "C) Slow Loris",
+      "voiceOverText": "Option C: The Slow Loris. This small, nocturnal primate has a surprising adaptation. It is the only known venomous primate.",
+      "imagePrompt": "A close-up, photorealistic image of a slow loris, with its round eyes and distinctive face, showing its venom glands near the elbows."
+    },
+    {
+      "overlaidText": "D) Lemur",
+      "voiceOverText": "Option D: The Lemur. Known for their lively behavior and unique habitats, but do they have venom?",
+      "imagePrompt": "A close-up, photorealistic image of a lemur, looking curious and active."
+    },
+    {
+      "overlaidText": "What is your answer?",
+      "voiceOverText": "What is your answer? Think about the surprising adaptation that makes one of these primates unique. The correct answer is... C) Slow Loris!",
+      "imagePrompt": "A high-resolution, photorealistic image of a slow loris, with a blurred forest background, emphasizing its distinctive features."
+    },
+    {
+      "overlaidText": "Surprising Fact: The Slow Loris is the only known venomous primate. It has venom glands on the inside of its elbows, and it licks these glands to deliver a venomous bite when threatened. This surprising adaptation helps it defend against predators and can even incapacitate a person.",
+      "voiceOverText": "The Slow Loris is the only known venomous primate. It has venom glands on the inside of its elbows, and it licks these glands to deliver a venomous bite when threatened. This surprising adaptation helps it defend against predators and can even incapacitate a person.",
+      "imagePrompt": "An illustration showing a slow loris with its venom glands highlighted and a diagram of its defensive mechanism."
+    }
+  ]
+}
